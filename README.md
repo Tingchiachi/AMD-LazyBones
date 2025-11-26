@@ -11,5 +11,5 @@ With a single click on the LazyBones browser or mobile extension button, the sys
 LazyBones turns fleeting content into structured, long-term knowledge.
 
 ## Team
-- Patrick [https://github.com/Tingchiachi]
-- Benson [https://github.com/hsiehbocheng]
+- [Chia Chi Ting](https://github.com/Tingchiachi)
+- [Bo Cheng Hsieh](https://github.com/hsiehbocheng)
